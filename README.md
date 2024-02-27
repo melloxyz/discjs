@@ -9,12 +9,7 @@ DiscJS é um bot de Discord inovador, projetado para enriquecer a experiência d
 
 ## 🌟 Funcionalidades
 
-- **Moderação Completa:** Comandos
-
-## 🌟 Funcionalidades
-
-
- intuitivos para a gestão eficaz da sua comunidade, incluindo adição e remoção de banimentos, e gerenciamento de membros VIP.
+- **Moderação Completa:** Comandos intuitivos para a gestão eficaz da sua comunidade, incluindo adição e remoção de banimentos, e gerenciamento de membros VIP.
 - **Engajamento Social:** Aumente a interação entre os membros com sistemas avançados de perfil, reputação e rankings.
 - **Automatização de Tarefas:** Simplifique tarefas rotineiras com funcionalidades automáticas, permitindo que você se concentre no que realmente importa.
 

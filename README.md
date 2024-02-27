@@ -1,7 +1,6 @@
 # DiscJS - O Bot de Reputação e Sistema de Anuncios.
 
 ![Versão](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
-![Licença](https://img.shields.io/badge/license-ISC-green?style=flat-square)
 ![Discord.js](https://img.shields.io/badge/discord.js-v14.14.1-blue.svg?style=flat-square)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D16.6.0-green.svg?style=flat-square)
 
